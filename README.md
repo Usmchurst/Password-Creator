@@ -6,6 +6,10 @@ I created else if statements to ensure the generator functions correctly when th
 
 I also created variables so the data can be selected for the generator at random. 
 
+Updated password generator to start when the password button is clicked.
+
+When the character number is selected the password is generated and undefined is not present the second tim around. 
+
 ## Contributions 
 
 James Edwards
