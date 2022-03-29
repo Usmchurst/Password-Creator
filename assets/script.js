@@ -62,14 +62,14 @@ else{
       resultPass += allChars[random];
   }
    //Display the result
-  document.getElementById("password").innerHTML = resultPass;
+  return resultPass;
 }
 }
 
 
 
 // // Add event listener to generate button
- generateBtn.addEventListener("click", writePassword);
+
 }
 
-generatePassword();
+generateBtn.addEventListener("click", writePassword);
